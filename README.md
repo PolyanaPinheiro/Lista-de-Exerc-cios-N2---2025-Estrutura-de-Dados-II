@@ -1,4 +1,4 @@
-### Repositorio dedidado ao desenvolviemnto da Atividade Parcial de Estrutura de Dados II
+### Repositorio dedidado ao desenvolvimento da Atividade Parcial de Estrutura de Dados II
 
 #### Integrantes
 - Levy Rodrigues
